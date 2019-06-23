@@ -315,19 +315,19 @@
       "version": 1.4
     }
   ],
-  "BOKKY": []
+  "BOKKY": [],
   "NIX": [
-        {
-            "ip": "ldn.electrum.nixplatform.io",
-            "port": 50001,
-            "connection": "tcp",
-            "version": 1.4
-        },
-        {
-            "ip": "ldn.electrum.nixplatform.io",
-            "port": 50002,
-            "connection": "ssl",
-            "version": 1.4
-        },
+    {
+      "ip": "ldn.electrum.nixplatform.io",
+      "port": 50001,
+      "connection": "tcp",
+      "version": 1.4
+    },
+    {
+      "ip": "ldn.electrum.nixplatform.io",
+      "port": 50002,
+      "connection": "ssl",
+      "version": 1.4
+    },
   ]
 }
