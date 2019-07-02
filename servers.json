@@ -1,333 +1,401 @@
-{
-  "BTC": [
-    {
-      "ip": "electrum1.cipig.net",
-      "port": 10000,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum2.cipig.net",
-      "port": 10000,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum3.cipig.net",
-      "port": 10000,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "CHIPS": [
-    {
-      "ip": "electrum1.cipig.net",
-      "port": 10053,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "KMD": [
-    {
-      "ip": "electrum1.cipig.net",
-      "port": 10001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum2.cipig.net",
-      "port": 10001,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "ZILLA": [
-    {
-      "ip": "electrum1.cipig.net",
-      "port": 10028,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum2.cipig.net",
-      "port": 10028,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "LTC": [
-    {
-      "ip": "electrum-ltc.bysh.me",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum.ltc.xurious.com",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "backup.electrum-ltc.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "BCH": [
-    {
-      "ip": "bch.imaginary.cash",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electroncash.dk",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "wallet.satoshiscoffeehouse.com",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "QTUM": [
-    {
-      "ip": "s1.qtum.info",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "s2.qtum.info",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "ETH": [],
-  "DASH": [
-    {
-      "ip": "electrum1.cipig.net",
-      "port": 10061,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum2.cipig.net",
-      "port": 10061,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "GRS": [
-    {
-      "ip": "electrum1.groestlcoin.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum2.groestlcoin.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum3.groestlcoin.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum4.groestlcoin.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum5.groestlcoin.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum6.groestlcoin.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum7.groestlcoin.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum8.groestlcoin.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum9.groestlcoin.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum10.groestlcoin.org",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "COQUI": [
-    {
-      "ip": "electrum1.cipig.net",
-      "port": 10011,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum2.cipig.net",
-      "port": 10011,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "VRSC": [
-    {
-      "ip": "el0.vrsc.0x03.services",
-      "port": 10000,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "el1.vrsc.0x03.services",
-      "port": 10000,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "OOT": [
-    {
-      "ip": "electrum1.utrum.io",
-      "port": 10088,
-      "connection": "tcp",
-      "version": 1.2
-    },
-    {
-      "ip": "electrum2.utrum.io",
-      "port": 10088,
-      "connection": "tcp",
-      "version": 1.2
-    }
-  ],
-  "TUSD": [],
-  "USDT": [],
-  "ZEC": [
-    {
-      "ip": "electrum1.cipig.net",
-      "port": 10058,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "electrum2.cipig.net",
-      "port": 10058,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "KOIN": [
-    {
-      "ip": "dalian.koinon.cloud",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "sumba.koinon.cloud",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "BIS": [
-    {
-      "ip": "wss://hyper.bisafe.net/web-socket/",
-      "port": 0,
-      "connection": "",
-      "version": 0
-    },
-    {
-      "ip": "wss://hyper.bisafe.net/web-socket2/",
-      "port": 0,
-      "connection": "",
-      "version": 0
-    }
-  ],
-  "TESTNET": [
-    {
-      "ip": "tn.not.fyi",
-      "port": 55002,
-      "connection": "ssl",
-      "version": 1.4
-    },
-    {
-      "ip": "testnet.hsmiths.com",
-      "port": 53012,
-      "connection": "ssl",
-      "version": 1.4
-    },
-    {
-      "ip": "testnet1.bauerj.eu",
-      "port": 50002,
-      "connection": "ssl",
-      "version": 1.4
-    }
-  ],
-  "BCH_TESTNET": [
-    {
-      "ip": "testnet.imaginary.cash",
-      "port": 50002,
-      "connection": "ssl",
-      "version": 1.4
-    },
-    {
-      "ip": "blackie.c3-soft.com",
-      "port": 60002,
-      "connection": "ssl",
-      "version": 1.4
-    }
-  ],
-  "ETHTEST": [],
-  "TGRS": [
-    {
-      "ip": "electrum-test2.groestlcoin.org",
-      "port": 51001,
-      "connection": "tcp",
-      "version": 1.4
-    }
-  ],
-  "BOKKY": [],
-  "NIX": [
-    {
-      "ip": "ldn.electrum.nixplatform.io",
-      "port": 50001,
-      "connection": "tcp",
-      "version": 1.4
-    },
-    {
-      "ip": "ldn.electrum.nixplatform.io",
-      "port": 50002,
-      "connection": "ssl",
-      "version": 1.4
-    },
-  ]
+{  
+   "BTC":[  
+      {  
+         "ip":"electrum1.cipig.net",
+         "port":10000,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum2.cipig.net",
+         "port":10000,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum3.cipig.net",
+         "port":10000,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "CHIPS":[  
+      {  
+         "ip":"electrum1.cipig.net",
+         "port":10053,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "KMD":[  
+      {  
+         "ip":"electrum1.cipig.net",
+         "port":10001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum2.cipig.net",
+         "port":10001,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "ZILLA":[  
+      {  
+         "ip":"electrum1.cipig.net",
+         "port":10028,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum2.cipig.net",
+         "port":10028,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "LTC":[  
+      {  
+         "ip":"electrum-ltc.bysh.me",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum.ltc.xurious.com",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"backup.electrum-ltc.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "BCH":[  
+      {  
+         "ip":"bch.imaginary.cash",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"wallet.satoshiscoffeehouse.com",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "QTUM":[  
+      {  
+         "ip":"s1.qtum.info",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"s2.qtum.info",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "ETH":[  
+
+   ],
+   "DASH":[  
+      {  
+         "ip":"electrum1.cipig.net",
+         "port":10061,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum2.cipig.net",
+         "port":10061,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "GRS":[  
+      {  
+         "ip":"electrum1.groestlcoin.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum2.groestlcoin.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum3.groestlcoin.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum4.groestlcoin.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum5.groestlcoin.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum6.groestlcoin.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum7.groestlcoin.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum8.groestlcoin.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum9.groestlcoin.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum10.groestlcoin.org",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "COQUI":[  
+      {  
+         "ip":"electrum1.cipig.net",
+         "port":10011,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum2.cipig.net",
+         "port":10011,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "VRSC":[  
+      {  
+         "ip":"el0.vrsc.0x03.services",
+         "port":10000,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"el1.vrsc.0x03.services",
+         "port":10000,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "OOT":[  
+      {  
+         "ip":"electrum1.utrum.io",
+         "port":10088,
+         "connection":"tcp",
+         "version":1.2
+      },
+      {  
+         "ip":"electrum2.utrum.io",
+         "port":10088,
+         "connection":"tcp",
+         "version":1.2
+      }
+   ],
+   "TUSD":[  
+
+   ],
+   "USDT":[  
+
+   ],
+   "ZEC":[  
+      {  
+         "ip":"electrum1.cipig.net",
+         "port":10058,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum2.cipig.net",
+         "port":10058,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "KOIN":[  
+      {  
+         "ip":"dalian.koinon.cloud",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"sumba.koinon.cloud",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "AXE":[  
+      {  
+         "ip":"149.28.61.183",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "BIS":[  
+      {  
+         "ip":"wss://hyper.bisafe.net/web-socket/",
+         "port":0,
+         "connection":"tcp",
+         "version":0
+      },
+      {  
+         "ip":"wss://hyper.bisafe.net/web-socket2/",
+         "port":0,
+         "connection":"tcp",
+         "version":0
+      }
+   ],
+   "K64":[  
+      {  
+         "ip":"electrum1.komodore64.com",
+         "port":21245,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum2.komodore64.com",
+         "port":21245,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "OUR":[  
+      {  
+         "ip":"51.158.74.137",
+         "port":50002,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum.komodochainz.info",
+         "port":50042,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "ZEXO":[  
+      {  
+         "ip":"electrum1.cipig.net",
+         "port":10035,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum2.cipig.net",
+         "port":10035,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"electrum3.cipig.net",
+         "port":10035,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "TESTNET":[  
+      {  
+         "ip":"tn.not.fyi",
+         "port":55002,
+         "connection":"ssl",
+         "version":1.4
+      },
+      {  
+         "ip":"testnet.hsmiths.com",
+         "port":53012,
+         "connection":"ssl",
+         "version":1.4
+      },
+      {  
+         "ip":"testnet1.bauerj.eu",
+         "port":50002,
+         "connection":"ssl",
+         "version":1.4
+      }
+   ],
+   "BCH_TESTNET":[  
+      {  
+         "ip":"testnet.imaginary.cash",
+         "port":50002,
+         "connection":"ssl",
+         "version":1.4
+      },
+      {  
+         "ip":"blackie.c3-soft.com",
+         "port":60002,
+         "connection":"ssl",
+         "version":1.4
+      }
+   ],
+   "ETHTEST":[  
+
+   ],
+   "TGRS":[  
+      {  
+         "ip":"electrum-test2.groestlcoin.org",
+         "port":51001,
+         "connection":"tcp",
+         "version":1.4
+      }
+   ],
+   "BOKKY":[  
+
+   ],
+   "NIX":[  
+      {  
+         "ip":"ldn.electrum.nixplatform.io",
+         "port":50001,
+         "connection":"tcp",
+         "version":1.4
+      },
+      {  
+         "ip":"ldn.electrum.nixplatform.io",
+         "port":50002,
+         "connection":"ssl",
+         "version":1.4
+      }
+   ],
+   "AXE_TESTNET":[  
+      {  
+         "ip":"dword.ga",
+         "port":51002,
+         "connection":"ssl",
+         "version":1.4
+      }
+   ]
 }
